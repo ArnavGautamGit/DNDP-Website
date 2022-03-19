@@ -83,7 +83,7 @@
     width: 27%;
     overflow: hidden;
     margin-top: 4px;
-    color: white;
+    color: whitesmoke;
   }
 
   aside li {
@@ -98,18 +98,19 @@
   
   h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    color: whitesmoke;
     text-align: center;
   }
 
-  h3 {
-    color: white;
+  h4 {
+    color: whitesmoke;
+    line-height: 22px;
   
   }
 
   p {
     padding-left: 10px;
-    color: white;
+    color: whitesmoke;
   }
 
   #slider {
