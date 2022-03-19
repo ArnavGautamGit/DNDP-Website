@@ -95,9 +95,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 10px; 
   }
+  
   h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: white;
+    text-align: center;
+  }
+
+  h3 {
+    color: white;
+  
   }
 
   p {
