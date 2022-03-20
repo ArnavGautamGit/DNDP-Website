@@ -97,7 +97,7 @@
     padding-bottom: 10px; 
   }
 
-  aside li img :hover {
+  aside li a :hover {
     background-color: darkgrey
   }
   
