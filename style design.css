@@ -96,6 +96,10 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 10px; 
   }
+
+  aside li img :hover {
+    background-color: darkgrey
+  }
   
   h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
