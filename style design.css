@@ -127,13 +127,20 @@
   .sub {
     text-align: center;
   }
+  
+  ul {
+    display: table;
+    overflow: hidden;
+    margin: 0 auto;
+  }
 
   .Featured {
     background-color: azure;
     border: 0.5px blue solid;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
     overflow: hidden;
+    text-align: center;
   }
 
   .Featured-font {
