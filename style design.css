@@ -123,6 +123,22 @@
     padding-left: 10px;
     color: whitesmoke;
   }
+  
+  .sub {
+    text-align: center;
+  }
+
+  .Featured {
+    background-color: azure;
+    border: 0.5px blue solid;
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+  }
+
+  .Featured-font {
+    color: #711313;
+  }
 
   #slider {
     overflow: hidden;
