@@ -15,6 +15,7 @@
 
   body {
     background-color: #611111;
+    padding-left: 5px;
   }
   
   .inner_header {
@@ -73,6 +74,7 @@
     /* border: 3px solid black; */
     width: 70%;
     margin-top: 2px;
+    padding-left: 3px;
   }
 
   aside{
@@ -83,7 +85,7 @@
     /* border: 3px solid black; */
     width: 27%;
     overflow: hidden;
-    margin-top: 2px;
+    margin-top: 5px;
     color: whitesmoke;
   }
 
